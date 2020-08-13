@@ -2,4 +2,5 @@
 <h1> Successfully deoployed container automatically using ansible and jenkins!! </h2>
 =======
 <h1> Hello,Welcome to Simple Devops!! </h1>
-<h2> deoployed container automatically using ansible and jenkins!! </h2>
+<h2> Successfully deoployed container automatically using ansible and jenkins!! </h2>
+>>>>>>> 84959c5871ab987927c25a093cdfa394d34b3c1e
